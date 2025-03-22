@@ -6,7 +6,7 @@ last_modified_at: 2023-10-01 01:08:25 +0800
 tags: [LQR Control,PID Wheeled Legged]
 toc:  true
 ---
-## 这是摘要
+## test   
 <!--more-->
 ## i System Design    
   - Designed a <mark> 3-DOF wheeled-leg </mark> robot chassis, integrating wheeled locomotion with legged movement to enhance mobility and adaptability across diverse terrains.       
