@@ -22,10 +22,10 @@ Developed and trained the <mark>target detection model</mark>, optimized it for 
 Conducted comprehensive tests to validate the system’s performance under various conditions, ensuring its ability to recognize targets, adjust flight dynamics, and achieve precise strikes.
 ## Pictures
 - i.  
-![dart-single.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/dart-single.png)
+![dart-single.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/dart-single.png)
 - ii.  
-![dart-single-2.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/dart-single-2.png)
+![dart-single-2.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/dart-single-2.png)
 - iii.  
-![dart_sum.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/dart-sum.png)
+![dart_sum.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/dart-sum.png)
 
 For more information about this theme, you can search the [repository](https://github.com/ZLLCmosasaurus/RMUC-2025/tree/M58-Dart).

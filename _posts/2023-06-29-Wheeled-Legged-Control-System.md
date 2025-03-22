@@ -17,9 +17,9 @@ toc:  true
   - Conducted tests to validate the stability, precision, and adaptability of the control system under various operational scenarios, ensuring optimal performance across complex environments.   
 ## V Pictures
 - i.   
-![wheeled-legged-1.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/wheeled-legged-1.png)
-- ii.   
-![wheeled-legged-2.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/wheeled-legged-2.png)
+![wheeled-legged-1.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/wheeled-legged-1.png)
+- i.   
+![wheeled-legged-2.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/wheeled-legged-2.png)
 
 
 For more information about this theme, you can search the [repository](https://github.com/sos-xiaobai/ch32v307-Whell-Leg).

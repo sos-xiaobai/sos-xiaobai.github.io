@@ -21,7 +21,7 @@ Designed and executed comprehensive experiments to validate the control systemâ€
 ## vi.	
 Responsible for data acquisition, analysis, and optimization of the hybrid control system. Combined extensive performance testing with iterative improvements to achieve a balance of <mark>precision</mark>, <mark>speed</mark>, and <mark>robustness</mark> in control.
 ## Pictures
-![arm.png](https://github.com/sos-xiaobai/sos-xiaobai.github.io/pictures/arm.png)
+![arm.png](https://raw.githubusercontent.com/sos-xiaobai/sos-xiaobai.github.io/master/pictures/arm.png)
 
 
 
