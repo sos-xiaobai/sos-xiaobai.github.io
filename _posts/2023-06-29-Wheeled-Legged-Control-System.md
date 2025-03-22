@@ -6,8 +6,10 @@ last_modified_at: 2023-10-01 01:08:25 +0800
 tags: [LQR Control,PID Wheeled Legged]
 toc:  true
 ---
+## 这是摘要
+<!--more-->
 ## i System Design    
-  - Designed a <mark> 3-DOF wheeled-leg </mark> robot chassis, integrating wheeled locomotion with legged movement to enhance mobility and adaptability across diverse terrains.      
+  - Designed a <mark> 3-DOF wheeled-leg </mark> robot chassis, integrating wheeled locomotion with legged movement to enhance mobility and adaptability across diverse terrains.       
 ## ii Control Algorithm  
   - Implemented a high-stability control algorithm leveraging a <mark>Kalman</mark> fusion observer for real-time state estimation and sensor data integration.   
   - Adopted a hybrid control approach combining Linear Quadratic Regulator <mark>(LQR)</mark> for optimal trajectory control and Proportional-Integral-Derivative <mark>(PID)</mark> controllers for precise motion adjustments.   
