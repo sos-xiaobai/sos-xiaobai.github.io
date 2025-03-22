@@ -56,3 +56,5 @@ sass:
 author:
   name: Enze Luo
   email: luo_850184312@163.com
+
+excerpt_separator: "<!--more-->"
